@@ -35,7 +35,7 @@ Bonus:
 ### Image to ASCII Conversion
 Write a program to load image files and [convert them to an ASCII encoded text version](https://en.wikipedia.org/wiki/ASCII_art#Image_to_text_conversion). 
 
-### Celular Noise
+### Cellular Noise
 Create an application to generate patterns using [cellular noise algorithms](https://thebookofshaders.com/12/).
  
 ## License
