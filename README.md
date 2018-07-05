@@ -5,7 +5,8 @@ A curated list of programming ideas.
     - [Sierpinski Triangle](#sierpinski-triangle)
     - [Sierpinski Carpet](#sierpinski-carpet)
     - [Turtle Graphics](#turtle-graphics)
-    -[Image to ASCII Conversion](#image-to-ascii-conversion)
+    - [Image to ASCII Conversion](#image-to-ascii-conversion)
+    
 ## Graphics
 ### Sierpinski Triangle
 A program to generate a [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle) and display it.
