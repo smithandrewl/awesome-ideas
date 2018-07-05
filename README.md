@@ -3,6 +3,7 @@ A curated list of programming ideas.
 ## Contents
   - [Graphics](#graphics)
     - [Sierpinski Triangle](#sierpinski-triangle)
+    - [Sierpinski Carpet](#sierpinski-carpet)
 ## Graphics
 ### Sierpinski Triangle
 A program to generate a [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle) and display it.
