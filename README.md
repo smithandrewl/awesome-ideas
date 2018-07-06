@@ -7,7 +7,8 @@ A curated list of programming ideas.
     - [Turtle Graphics](#turtle-graphics)
     - [Image to ASCII Conversion](#image-to-ascii-conversion)
     - [Cellular Noise](#cellular-noise)
-    
+  - [Text](#text)
+    - [Gibberish Generator](#gibberish-generator)  
 ## Graphics
 ### Sierpinski Triangle
 A program to generate a [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle) and display it.
@@ -38,6 +39,13 @@ Write a program to load image files and [convert them to an ASCII encoded text v
 ### Cellular Noise
 Create an application to generate patterns using [cellular noise algorithms](https://thebookofshaders.com/12/).
  
+## Text
+### Gibberish Generator
+Create an application to read in a large text file and generate text gibberish. 
+ 
+Reference material:
+
+  - [Markov Chains](http://techeffigytutorials.blogspot.com/2015/01/markov-chains-explained.html)
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
