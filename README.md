@@ -8,7 +8,9 @@ A curated list of programming ideas.
     - [Image to ASCII Conversion](#image-to-ascii-conversion)
     - [Cellular Noise](#cellular-noise)
   - [Text](#text)
-    - [Gibberish Generator](#gibberish-generator)  
+    - [Gibberish Generator](#gibberish-generator) 
+  - [Other](#other)
+    - [Maze Generator](#maze-generator)
 ## Graphics
 ### Sierpinski Triangle
 A program to generate a [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle) and display it.
@@ -46,6 +48,16 @@ Create an application to read in a large text file and generate text gibberish.
 Reference material:
 
   - [Markov Chains](http://techeffigytutorials.blogspot.com/2015/01/markov-chains-explained.html)
+
+## Other
+### Maze Generator
+Create a graphical application to randomly [create a maze](https://en.wikipedia.org/wiki/Maze_generation_algorithm) with one entrance and one exit.
+
+Bonus:
+
+  - Allow the size of the maze to be adjusted.
+  - Add a button that will [solve the maze](https://en.wikipedia.org/wiki/Maze_solving_algorithm) and display the solution when clicked.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
