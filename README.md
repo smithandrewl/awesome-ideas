@@ -4,6 +4,7 @@ A curated list of programming ideas.
   - [Graphics](#graphics)
     - [Sierpinski Triangle](#sierpinski-triangle)
     - [Sierpinski Carpet](#sierpinski-carpet)
+    - [Vicsek Fractal](#vicsek-fractal)
     - [Turtle Graphics](#turtle-graphics)
     - [Image to ASCII Conversion](#image-to-ascii-conversion)
     - [Cellular Noise](#cellular-noise)
@@ -28,6 +29,13 @@ Bonus:
   - Allow the number of iterations to be adjusted
   - Allow the resulting image to be saved.
 
+### Vicsek Fractal
+A program to generate a [Vicsek fractal](https://en.wikipedia.org/wiki/Vicsek_fractal) and display it.
+
+Bonus:
+
+  - Allow the number of iterations to be adjusted.
+  - Allow the resulting image to be saved.
 ### Turtle Graphics
 An implementation and demonstration of [turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics).
 
