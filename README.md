@@ -5,7 +5,7 @@ A curated list of programming ideas.
     - [Sierpinski Triangle](#sierpinski-triangle)
     - [Sierpinski Carpet](#sierpinski-carpet)
     - [Vicsek Fractal](#vicsek-fractal)
-    - [T-square Fractal](#t-square-fractal)
+    - [T-Square Fractal](#t-square-fractal)
     - [Turtle Graphics](#turtle-graphics)
     - [Image to ASCII Conversion](#image-to-ascii-conversion)
     - [Cellular Noise](#cellular-noise)
@@ -30,7 +30,7 @@ Bonus:
   - Allow the number of iterations to be adjusted
   - Allow the resulting image to be saved.
 
-### T-Sqaure Fractal
+### T-Square Fractal
 A program to generate a [T-square fractal](https://en.wikipedia.org/wiki/T-square_(fractal)) and display it.
 
 Bonus:
