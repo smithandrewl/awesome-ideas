@@ -2,19 +2,21 @@
 A curated list of programming ideas.
 ## Contents
   - [Graphics](#graphics)
-    - [Sierpinski Triangle](#sierpinski-triangle)
-    - [Sierpinski Carpet](#sierpinski-carpet)
-    - [Vicsek Fractal](#vicsek-fractal)
-    - [T-Square Fractal](#t-square-fractal)
-    - [Turtle Graphics](#turtle-graphics)
-    - [Image to ASCII Conversion](#image-to-ascii-conversion)
-    - [Cellular Noise](#cellular-noise)
+    - [Fractals](#fractals)
+          - [Sierpinski Triangle](#sierpinski-triangle)
+          - [Sierpinski Carpet](#sierpinski-carpet)
+          - [Vicsek Fractal](#vicsek-fractal)
+          - [T-Square Fractal](#t-square-fractal)
+          - [Turtle Graphics](#turtle-graphics)
+      - [Image to ASCII Conversion](#image-to-ascii-conversion)
+      - [Cellular Noise](#cellular-noise)
   - [Text](#text)
     - [Gibberish Generator](#gibberish-generator) 
   - [Other](#other)
     - [Maze Generator](#maze-generator)
 ## Graphics
-### Sierpinski Triangle
+### Fractals
+#### Sierpinski Triangle
 A program to generate a [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle) and display it.
 
 Bonus:
@@ -22,7 +24,7 @@ Bonus:
   - Allow the number of iterations to be adjusted
   - Allow the resulting image to be saved.
 
-### Sierpinski Carpet
+#### Sierpinski Carpet
 A program to generate a [Sierpinski carpet](https://en.wikipedia.org/wiki/Sierpinski_carpet) and display it.
 
 Bonus:
@@ -30,7 +32,7 @@ Bonus:
   - Allow the number of iterations to be adjusted
   - Allow the resulting image to be saved.
 
-### T-Square Fractal
+#### T-Square Fractal
 A program to generate a [T-square fractal](https://en.wikipedia.org/wiki/T-square_(fractal)) and display it.
 
 Bonus:
@@ -38,7 +40,7 @@ Bonus:
   - Allow the number of iterations to be adjusted
   - Allow the resulting image to be saved.
 
-### Vicsek Fractal
+#### Vicsek Fractal
 A program to generate a [Vicsek fractal](https://en.wikipedia.org/wiki/Vicsek_fractal) and display it.
 
 Bonus:
@@ -74,7 +76,6 @@ Bonus:
 
   - Allow the size of the maze to be adjusted.
   - Add a button that will [solve the maze](https://en.wikipedia.org/wiki/Maze_solving_algorithm) and display the solution when clicked.
-
 
 ## License
 
