@@ -12,6 +12,7 @@ A curated list of programming ideas.
     - [Cellular Noise](#cellular-noise)
   - [Text](#text)
     - [Gibberish Generator](#gibberish-generator) 
+    - [Spam Classifier](#spam-classifier)
   - [Other](#other)
     - [Maze Generator](#maze-generator)
 ## Graphics
@@ -67,6 +68,11 @@ Create an application to read in a large text file and generate text gibberish.
 Reference material:
 
   - [Markov Chains](http://techeffigytutorials.blogspot.com/2015/01/markov-chains-explained.html)
+### Spam Classifier
+Create an application which uses machine learning to classify email messages as "spam" or "not spam."
+
+Reference:
+[A Plan for Spam](http://www.paulgraham.com/spam.html)
 
 ## Other
 ### Maze Generator
