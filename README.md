@@ -71,8 +71,10 @@ Reference material:
 ### Spam Classifier
 Create an application which uses machine learning to classify email messages as "spam" or "not spam."
 
-Reference:
-[A Plan for Spam](http://www.paulgraham.com/spam.html)
+Reference material:
+
+  - [A Plan for Spam](http://www.paulgraham.com/spam.html)
+  - [Naive Bayes spam filtering](https://en.wikipedia.org/wiki/Naive_Bayes_spam_filtering)
 
 ## Other
 ### Maze Generator
