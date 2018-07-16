@@ -84,7 +84,7 @@ Create a graphical application to manage collections (rock, stamp, shell).
 The tool should:
  
   - Allow multiple collections to be created
-  - Allow multiple views for a collection
+  - Allow multiple views for per collection
   - Show images for each item (if any)
   
  Bonus:
