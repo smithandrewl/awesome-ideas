@@ -14,6 +14,7 @@ A curated list of programming ideas.
     - [Gibberish Generator](#gibberish-generator) 
     - [Spam Classifier](#spam-classifier)
   - [Other](#other)
+    - [Collection Manager](#collection-manager)
     - [Maze Generator](#maze-generator)
 ## Graphics
 ### Fractals
@@ -77,6 +78,19 @@ Reference material:
   - [Naive Bayes spam filtering](https://en.wikipedia.org/wiki/Naive_Bayes_spam_filtering)
 
 ## Other
+### Collection Manager
+Create a graphical application to manage collections (rock, stamp, shell).
+
+The tool should:
+ 
+  - Allow multiple collections to be created
+  - Allow multiple views for a collection
+  - Show images for each item (if any)
+  
+ Bonus:
+ 
+   - Allow for the export to multiple formats (pdf, html, etc)
+
 ### Maze Generator
 Create a graphical application to randomly [create a maze](https://en.wikipedia.org/wiki/Maze_generation_algorithm) with one entrance and one exit.
 
