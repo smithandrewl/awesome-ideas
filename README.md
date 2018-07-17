@@ -88,7 +88,7 @@ The tool should:
   - Show images for each item (if any)
   
  Bonus:
- 
+   - Use a SQL database of some kind (embedded or client-server)
    - Allow for the export to multiple formats (pdf, html, etc)
 
 ### Maze Generator
