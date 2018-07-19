@@ -10,6 +10,7 @@ A curated list of programming ideas.
         - [Turtle Graphics](#turtle-graphics)
     - [Image to ASCII Conversion](#image-to-ascii-conversion)
     - [Cellular Noise](#cellular-noise)
+    - [Map Generator](#map-generator)
   - [Text](#text)
     - [Gibberish Generator](#gibberish-generator) 
     - [Spam Classifier](#spam-classifier)
@@ -59,6 +60,15 @@ Bonus:
 ### Image to ASCII Conversion
 Write a program to load image files and [convert them to an ASCII encoded text version](https://en.wikipedia.org/wiki/ASCII_art#Image_to_text_conversion). 
 
+### Map Generator
+Create an application which generates images representing a game map.  The maps should include colored sections for bare land, water, and forest.
+
+Reference Material:
+
+  - [Terrain from Noise](https://www.redblobgames.com/maps/terrain-from-noise/)
+  - [Creating a Random 2d Game World Map](https://gillesleblanc.wordpress.com/2012/10/16/creating-a-random-2d-game-world-map/)
+  - [Height Map](https://en.wikipedia.org/wiki/Heightmap)
+  
 ### Cellular Noise
 Create an application to generate patterns using [cellular noise algorithms](https://thebookofshaders.com/12/).
  
