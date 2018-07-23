@@ -11,6 +11,7 @@ A curated list of programming ideas.
     - [Image to ASCII Conversion](#image-to-ascii-conversion)
     - [Cellular Noise](#cellular-noise)
     - [Map Generator](#map-generator)
+    - [Screensaver](#screensaver)
   - [Text](#text)
     - [Gibberish Generator](#gibberish-generator) 
     - [Spam Classifier](#spam-classifier)
@@ -71,7 +72,13 @@ Reference Material:
   
 ### Cellular Noise
 Create an application to generate patterns using [cellular noise algorithms](https://thebookofshaders.com/12/).
- 
+
+### Screensaver
+Create a screensaver which draws pleasing animations to the screen.
+
+Reference material:
+  - [Screensaver](https://en.wikipedia.org/wiki/Screensaver)
+  - [Creating a Screen Saver](https://www.harding.edu/fmccown/screensaver/screensaver.html)
 ## Text
 ### Gibberish Generator
 Create an application to read in a large text file and generate text gibberish. 
