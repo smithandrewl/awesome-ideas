@@ -25,7 +25,7 @@ A program to generate a [Sierpinski triangle](https://en.wikipedia.org/wiki/Sier
 
 Bonus:
   
-  - Allow the number of iterations to be adjusted
+  - Allow the number of iterations to be adjusted.
   - Allow the resulting image to be saved.
 
 #### Sierpinski Carpet
