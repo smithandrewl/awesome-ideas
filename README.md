@@ -33,7 +33,7 @@ A program to generate a [Sierpinski carpet](https://en.wikipedia.org/wiki/Sierpi
 
 Bonus:
 
-  - Allow the number of iterations to be adjusted
+  - Allow the number of iterations to be adjusted.
   - Allow the resulting image to be saved.
 
 #### T-Square Fractal
