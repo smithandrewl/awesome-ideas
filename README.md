@@ -41,7 +41,7 @@ A program to generate a [T-square fractal](https://en.wikipedia.org/wiki/T-squar
 
 Bonus:
 
-  - Allow the number of iterations to be adjusted
+  - Allow the number of iterations to be adjusted.
   - Allow the resulting image to be saved.
 
 #### Vicsek Fractal
