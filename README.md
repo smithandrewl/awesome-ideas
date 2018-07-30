@@ -102,7 +102,7 @@ The tool should:
  
   - Allow multiple collections to be created.
   - Allow multiple views for per collection.
-  - Show images for each item (if any)
+  - Show images for each item (if any).
   
  Bonus:
    - Use a SQL database of some kind (embedded or client-server)
