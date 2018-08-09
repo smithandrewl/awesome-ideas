@@ -106,7 +106,7 @@ The tool should:
   
  Bonus:
    - Use a SQL database of some kind (embedded or client-server).
-   - Allow for the export to multiple formats (pdf, html, etc)
+   - Allow for the export to multiple formats (pdf, html, etc).
 
 ### Maze Generator
 Create a graphical application to randomly [create a maze](https://en.wikipedia.org/wiki/Maze_generation_algorithm) with one entrance and one exit.
