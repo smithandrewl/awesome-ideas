@@ -69,6 +69,12 @@ Reference Material:
   - [Terrain from Noise](https://www.redblobgames.com/maps/terrain-from-noise/)
   - [Creating a Random 2d Game World Map](https://gillesleblanc.wordpress.com/2012/10/16/creating-a-random-2d-game-world-map/)
   - [Height Map](https://en.wikipedia.org/wiki/Heightmap)
+### Spider Web Generator
+Create an application to draw an animated spider web being made.  No two should be exactly alike.
+
+Reference Material:
+
+  - [Construction of a Spider Orb Web](https://ednieuw.home.xs4all.nl/Spiders/Info/Construction_of_a_web.html)
   
 ### Cellular Noise
 Create an application to generate patterns using [cellular noise algorithms](https://thebookofshaders.com/12/).
