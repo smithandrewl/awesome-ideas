@@ -12,6 +12,7 @@ A curated list of programming ideas.
     - [Cellular Noise](#cellular-noise)
     - [Map Generator](#map-generator)
     - [Screensaver](#screensaver)
+    - [Spider Web Generator](#spider-web-generator)
   - [Text](#text)
     - [Gibberish Generator](#gibberish-generator) 
     - [Spam Classifier](#spam-classifier)
